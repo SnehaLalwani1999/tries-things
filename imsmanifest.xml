@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6pKhwLZawpM" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">RegRushTest</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="RegRushTest_ORG">
+    <organization identifier="RegRushTest_ORG">
+      <title>RegRushTest</title>
+      <item identifier="RegRushTest_SCO" isvisible="true" identifierref="__6pKhwLZawpM_RES">
+        <title>RegRushTest</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6pKhwLZawpM_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6iaInGEoy0a_M_50_50.png" />
+      <file href="mobile/5v4KdzPwG8O.png" />
+      <file href="mobile/5pk0eYaubI3.png" />
+      <file href="mobile/5g5b5JCydAO.png" />
+      <file href="mobile/6OO7rhdSk72.png" />
+      <file href="mobile/6NZjGtuvJzN.png" />
+      <file href="mobile/5WYWv6tmyOL.png" />
+      <file href="mobile/6At2H9MobEL.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6Nx00NrLHKL.png" />
+      <file href="mobile/Shape5xYQaELe7Cd.png" />
+      <file href="mobile/Shape6ZeIBIuO7Rw.png" />
+      <file href="mobile/Shape6VhLPL90M7b.png" />
+      <file href="mobile/Shape6hjiOdw8dWD.png" />
+      <file href="mobile/Shape6Z67SClCp0t.png" />
+      <file href="mobile/Shape6cMFB9Xc0Y1.png" />
+      <file href="mobile/Shape6rjZQQmIId2.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5arzFNYXnIm.js" />
+      <file href="html5/data/js/5axWHLiRAEp.js" />
+      <file href="html5/data/js/5bzqCMCuug7.js" />
+      <file href="html5/data/js/5iu1FrZghdM.js" />
+      <file href="html5/data/js/5kNyB08glj7.js" />
+      <file href="html5/data/js/5ojMqUorLg1.js" />
+      <file href="html5/data/js/5q8M8pqpMl7.js" />
+      <file href="html5/data/js/5qjHUvI3FSs.js" />
+      <file href="html5/data/js/62XO34eAxjX.js" />
+      <file href="html5/data/js/64gb5NXwBu8.js" />
+      <file href="html5/data/js/6EBxCobkxpK.js" />
+      <file href="html5/data/js/6TxQhtKmoeq.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
